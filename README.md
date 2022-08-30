@@ -5,7 +5,7 @@
 Hi, I'm **AhmetDurak**, passionate `ISTQB` certified `Software Automation Tester`, `SDET` in Germany. I've self learned Cypress in order to gain different tools perspectives, applied it also to projects.
 I take great care in the experience, architecture, and code quality of the things I build.
 
-<h1>
+<h1><hr>
   <a href="https://www.linkedin.com/in/ahmet-durak-672019153/">
     <img src="https://user-images.githubusercontent.com/98670034/187494309-f814881d-e60e-4f78-90e5-9419e8bf69ea.png" width="40" alt= "Linkedin" /></a>
 <a href="https://github.com/AhmetDurak">
@@ -14,7 +14,7 @@ I take great care in the experience, architecture, and code quality of the thing
     <img src="https://seeklogo.com/images/D/discord-color-logo-E5E6DFEF80-seeklogo.com.png" width="40"></a>
 <a href="https://app.slack.com/client/T0109AFRN2F/C010813EECS">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Slack_icon_2019.svg/2048px-Slack_icon_2019.svg.png" width="30"></a>
-</h1>
+<hr></h1>
 
 - 🔭 I’m currently working as SDET
 - 🌱 I’m currently learning JMeter for Performance Testing purpose
@@ -41,10 +41,8 @@ I take great care in the experience, architecture, and code quality of the thing
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/1024px-Git-logo.svg.png" width="60" alt="git">    
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/1200px-Jenkins_logo.svg.png" width="30" alt="jenkins">
     <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" width="30" alt="MySQL">
-
-
 <hr></p>
 
-<img align="middle" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="1000" alt="working tester">
+<img align="middle" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="500" alt="working tester">
 <p><hr></p>
-<img src="https://j.gifs.com/98OvjJ.gif" width="200" alt="bye bye">
+<img src="https://j.gifs.com/98OvjJ.gif" width="500" alt="bye bye">
