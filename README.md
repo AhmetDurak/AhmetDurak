@@ -24,7 +24,6 @@ I take great care in the experience, architecture, and code quality of the thing
 
 <h2><img src="https://www.cedefop.europa.eu/files/images/Logo-skills-intelligence.png" width="30"> `Tools that I know`</h2>
 <p align="left">
-<hr>
     <img src="https://upload.wikimedia.org/wikipedia/de/thumb/e/e1/Java-Logo.svg/1200px-Java-Logo.svg.png" width="30" alt="java">
     <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="30" alt="JS">
     <img src="https://i0.wp.com/blog.knoldus.com/wp-content/uploads/2022/04/cypress.png?fit=364%2C364&ssl=1" width="30" alt="cypress">
@@ -42,10 +41,8 @@ I take great care in the experience, architecture, and code quality of the thing
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/1024px-Git-logo.svg.png" width="60" alt="git">    
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/1200px-Jenkins_logo.svg.png" width="30" alt="jenkins">
     <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" width="30" alt="MySQL">
-<hr></p>
+</p>
 
 <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="500" alt="working tester">
 
 <p><hr></p>
-<img src="https://j.gifs.com/98OvjJ.gif" width="500" alt="bye bye">
-
