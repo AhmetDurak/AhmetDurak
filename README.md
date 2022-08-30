@@ -18,7 +18,7 @@ I take great care in the experience, architecture, and code quality of the thing
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/ahmet-durak-672019153/">LinkedIn</a>
 
 <h2>`Tools that I know`</h2>
-<p><hr>
+<p align="left"><hr>
     <img src="https://upload.wikimedia.org/wikipedia/de/thumb/e/e1/Java-Logo.svg/1200px-Java-Logo.svg.png" width="30" alt="java">
     <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="30" alt="JS">
     <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" width="30" alt="git">    
@@ -41,3 +41,4 @@ I take great care in the experience, architecture, and code quality of the thing
 <hr></p>
 
 <img align="middle" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="1000" alt="working tester">
+
