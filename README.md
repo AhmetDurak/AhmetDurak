@@ -1,9 +1,8 @@
-## Hi there 👋
+Hi, I'm **AhmetDurak** passionate `ISTQB` certified Software Automation Tester in Germany. I've self learned Cypress in order to gain different tools perspectives, applied it also to projects.
+I take great care in the experience, architecture, and code quality of the things I build.
 
+![174857](https://user-images.githubusercontent.com/98670034/187494309-f814881d-e60e-4f78-90e5-9419e8bf69ea.png)
 
-**AhmetDurak/AhmetDurak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +12,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-<!-- -->
+<!---->
