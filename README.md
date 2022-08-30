@@ -42,7 +42,7 @@ I take great care in the experience, architecture, and code quality of the thing
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/1200px-Jenkins_logo.svg.png" width="30" alt="jenkins">
     <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" width="30" alt="MySQL">
 </p>
-
+<p><hr>
 <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="500" alt="working tester">
 
-<p><hr></p>
+</p>
