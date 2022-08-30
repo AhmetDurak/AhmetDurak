@@ -1,8 +1,15 @@
-Hi, I'm **AhmetDurak** passionate `ISTQB` certified Software Automation Tester in Germany. I've self learned Cypress in order to gain different tools perspectives, applied it also to projects.
+<img align="right"   src="https://komarev.com/ghpvc/?username=AhmetDurak&color=red">
+
+### Hi there!
+
+Hi, I'm **AhmetDurak** passionate `ISTQB` certified `Software Automation Tester`, `SDET` in Germany. I've self learned Cypress in order to gain different tools perspectives, applied it also to projects.
 I take great care in the experience, architecture, and code quality of the things I build.
 
-![174857](https://user-images.githubusercontent.com/98670034/187494309-f814881d-e60e-4f78-90e5-9419e8bf69ea.png)
-
+<h1>
+  <a href="https://www.linkedin.com/in/ahmet-durak-672019153/">
+    <img src="https://user-images.githubusercontent.com/98670034/187494309-f814881d-e60e-4f78-90e5-9419e8bf69ea.png" width="40" alt= "Linkedin" />
+  </a>
+</h1>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
