@@ -20,7 +20,7 @@ I take great care in the experience, architecture, and code quality of the thing
 - 🌱 I’m currently learning JMeter for Performance Testing purpose
 - 💬 Ask me about Software Functional and Performance Testing
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/ahmet-durak-672019153/">
-    <img src="https://user-images.githubusercontent.com/98670034/187494309-f814881d-e60e-4f78-90e5-9419e8bf69ea.png" width="40" alt= "Linkedin" /></a>
+    <img src="https://user-images.githubusercontent.com/98670034/187494309-f814881d-e60e-4f78-90e5-9419e8bf69ea.png" width="12" alt= "Linkedin" /></a>
 
 <h2>`Tools that I know`</h2>
 <p align="left"><hr>
