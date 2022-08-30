@@ -20,10 +20,11 @@ I take great care in the experience, architecture, and code quality of the thing
 - 🌱 I’m currently learning JMeter for Performance Testing purpose
 - 💬 Ask me about Software Functional and Performance Testing
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/ahmet-durak-672019153/">
-    <img src="https://user-images.githubusercontent.com/98670034/187494309-f814881d-e60e-4f78-90e5-9419e8bf69ea.png" width="17" alt= "Linkedin" /></a>
+  <img src="https://user-images.githubusercontent.com/98670034/187494309-f814881d-e60e-4f78-90e5-9419e8bf69ea.png" width="17" alt= "Linkedin" /></a>
 
-<h2>`Tools that I know`</h2>
-<p align="left"><hr>
+<h2><img src="https://www.cedefop.europa.eu/files/images/Logo-skills-intelligence.png" width="30"> `Tools that I know`</h2>
+<p align="left">
+<hr>
     <img src="https://upload.wikimedia.org/wikipedia/de/thumb/e/e1/Java-Logo.svg/1200px-Java-Logo.svg.png" width="30" alt="java">
     <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="30" alt="JS">
     <img src="https://i0.wp.com/blog.knoldus.com/wp-content/uploads/2022/04/cypress.png?fit=364%2C364&ssl=1" width="30" alt="cypress">
@@ -43,6 +44,8 @@ I take great care in the experience, architecture, and code quality of the thing
     <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" width="30" alt="MySQL">
 <hr></p>
 
-<img align="middle" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="500" alt="working tester">
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="500" alt="working tester">
+
 <p><hr></p>
 <img src="https://j.gifs.com/98OvjJ.gif" width="500" alt="bye bye">
+
