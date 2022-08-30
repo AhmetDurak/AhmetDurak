@@ -4,7 +4,7 @@
 
 Hi, I'm **AhmetDurak**, passionate `ISTQB` certified `Software Automation Tester`, `SDET` in Germany. I've self learned Cypress in order to gain different tools perspectives, applied it also to projects.
 
-- I take great care in the experience, architecture, and code quality of the things I build.
+I take great care in the experience, architecture, and code quality of the things I build.
 
 <h1><hr>
   <a href="https://www.linkedin.com/in/ahmet-durak-672019153/">
