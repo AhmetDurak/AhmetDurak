@@ -44,4 +44,6 @@ Hi, I'm **AhmetDurak**, passionate `ISTQB` certified `Software Automation Tester
 <p><hr>
 <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="500" alt="working tester">
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmetDurak&layout=compact)](https://github.com/anuraghazra/github-readme-stats
+
 </p>
