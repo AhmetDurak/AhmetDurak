@@ -25,7 +25,7 @@ Hi, I'm **AhmetDurak**, passionate `ISTQB` certified `Software Automation Tester
 <p align="left">
     <img src="https://upload.wikimedia.org/wikipedia/de/thumb/e/e1/Java-Logo.svg/1200px-Java-Logo.svg.png" width="30" alt="java">
     <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="30" alt="JS">
-    <img src="https://media.slid.es/avatars/1098231/Cypress_Logomark_Color_Dark_BG.jpg" width="80" alt="cypress">
+    <img src="https://media.slid.es/avatars/1098231/Cypress_Logomark_Color_Dark_BG.jpg" width="30" alt="cypress">
     <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png" width="30" alt="selenium">
     <img src="https://i1.wp.com/rubenjgarcia.es/wp-content/uploads/2018/04/cucumber.png?fit=400%2C400&ssl=1" width="30" alt="cucumber">
     <img src="https://miro.medium.com/max/881/1*J8sjpKQJswCKiPUYVefbgQ.jpeg" width="40" alt="junit">
