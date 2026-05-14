@@ -33,9 +33,8 @@
 
 ## 📊 GitHub Stats
 
-![Ahmet's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmetdurak)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmetdurak&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmetdurak&show_icons=true&theme=tokyonight&cache_seconds=1800)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmetdurak&layout=compact&theme=tokyonight&cache_seconds=1800)
 
 ---
 
