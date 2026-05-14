@@ -36,9 +36,9 @@
 
 ## 📊 GitHub Stats
 
-![Ahmet's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+![Ahmet's GitHub stats](https://github-readme-stats.vercel.app/api?username=AhmetDurak&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmetDurak&layout=compact&theme=tokyonight)
 
 ---
 
@@ -74,7 +74,8 @@
 
 ## 📫 Contact
 
-- 💼 LinkedIn: *add link*
+- 💼 LinkedIn: www.linkedin.com/in/ahmet-durak-672019153
+
 - 📧 Email: durakahmet049@gmail.com  
 
 ---
